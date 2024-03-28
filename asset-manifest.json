@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pavan7988/AD.git/static/css/main.3c2dbeec.css",
-    "main.js": "/pavan7988/AD.git/static/js/main.bbf4dcb1.js",
-    "static/js/453.5567d74c.chunk.js": "/pavan7988/AD.git/static/js/453.5567d74c.chunk.js",
-    "index.html": "/pavan7988/AD.git/index.html",
-    "main.3c2dbeec.css.map": "/pavan7988/AD.git/static/css/main.3c2dbeec.css.map",
-    "main.bbf4dcb1.js.map": "/pavan7988/AD.git/static/js/main.bbf4dcb1.js.map",
-    "453.5567d74c.chunk.js.map": "/pavan7988/AD.git/static/js/453.5567d74c.chunk.js.map"
+    "main.css": "/readerstop/static/css/main.1bf13166.css",
+    "main.js": "/readerstop/static/js/main.dbfb082a.js",
+    "static/js/453.367fd9b5.chunk.js": "/readerstop/static/js/453.367fd9b5.chunk.js",
+    "index.html": "/readerstop/index.html",
+    "main.1bf13166.css.map": "/readerstop/static/css/main.1bf13166.css.map",
+    "main.dbfb082a.js.map": "/readerstop/static/js/main.dbfb082a.js.map",
+    "453.367fd9b5.chunk.js.map": "/readerstop/static/js/453.367fd9b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c2dbeec.css",
-    "static/js/main.bbf4dcb1.js"
+    "static/css/main.1bf13166.css",
+    "static/js/main.dbfb082a.js"
   ]
 }
